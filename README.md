@@ -1,4 +1,4 @@
-# YOURLS Manage Protocols Plugin
+# yourls-manage-protocols-plugin
 
 A simple, powerful YOURLS plugin that allows you to manage whitelisted redirect URL protocols (schemes) directly from your administration dashboard.
 
@@ -23,3 +23,10 @@ After activation, click **Manage Protocols** in the navigation bar to add custom
 
 - **Bluscream**
 - **Antigravity.AI**
+
+## Other Plugins
+
+Check out our other YOURLS plugins:
+- [Prune Inactive Links](../prune-inactive-links): Automatically deletes old links that receive no clicks.
+- [Public Shortener Front Page](../public-shortener): A premium, Turnstile-secured public URL shortener.
+- [Modern Clicks Log Viewer](../modern-log-viewer): Responsive table of click logs with GeoLite2 geolocation.
