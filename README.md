@@ -30,3 +30,7 @@ Check out our other YOURLS plugins:
 - [Prune Inactive Links](../prune-inactive-links): Automatically deletes old links that receive no clicks.
 - [Public Shortener Front Page](../public-shortener): A premium, Turnstile-secured public URL shortener.
 - [Modern Clicks Log Viewer](../modern-log-viewer): Responsive table of click logs with GeoLite2 geolocation.
+
+## AI Disclaimer
+
+This plugin was created and is maintained with the assistance of Antigravity, an agentic AI coding assistant by Google DeepMind.
